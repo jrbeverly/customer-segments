@@ -1,0 +1,19 @@
+{
+  "slug": "customer-segments",
+  "namespace": "jrbeverly",
+  "status": "archived",
+  "icon": "icon.svg",
+  "license": {
+    "type": "MIT",
+    "content": "Jonathan Beverly <jrbeverly>"
+  },
+  "topics": [
+    "udacity-mlnd",
+    "customer-segmentation"
+  ],
+  "languages": [
+    "Jupyter Notebook",
+    "Python",
+    "Shell"
+  ]
+}
