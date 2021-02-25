@@ -12,6 +12,7 @@
     "customer-segmentation"
   ],
   "languages": [
+    "Dockerfile",
     "Jupyter Notebook",
     "Python",
     "Shell"
