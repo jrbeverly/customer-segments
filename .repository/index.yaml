@@ -1,0 +1,15 @@
+slug: customer-segments
+description: Applying unsupervised learning techniques on product spending data to identify customer segments hidden in the data.
+project: udacity
+namespace:
+status: archived
+icon: icon.svg
+license:
+  type: MIT
+  content: Jonathan Beverly <jrbeverly>
+  year: 2020
+topics: |-
+  [
+    "udacity-mlnd",
+    "customer-segmentation"
+  ]
